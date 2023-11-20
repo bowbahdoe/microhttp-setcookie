@@ -9,6 +9,10 @@
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
+    <name>microhttp-setcookie</name>
+    <description>Utility for producing a Set-Cookie header</description>
+    <url>https://github.com/bowbahdoe/microhttp-setcookie</url>
+
     <developers>
         <developer>
             <name>Ethan McCue</name>
