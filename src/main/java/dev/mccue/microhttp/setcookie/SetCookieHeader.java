@@ -136,7 +136,7 @@ public final class SetCookieHeader {
 
         @Override
         public String toString() {
-            return "SetCookieHeader$Builder" +
+            return "SetCookieHeader$Builder[" +
                    "sameSite=" + sameSite +
                    ", expires=" + expires +
                    ", maxAge=" + maxAge +
