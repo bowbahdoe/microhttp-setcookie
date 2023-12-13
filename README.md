@@ -10,7 +10,7 @@ Utility for producing a Set-Cookie header
 <dependency>
     <groupId>dev.mccue</groupId>
     <artiactId>microhttp-setcookie</artiactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
@@ -18,7 +18,7 @@ Utility for producing a Set-Cookie header
 
 ```groovy
 dependencies {
-    implementation('dev.mccue:microhttp-setcookie:0.0.1')
+    implementation('dev.mccue:microhttp-setcookie:0.0.2')
 }
 ```
 
